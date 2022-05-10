@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #
-- 🔥 Sênior DevOps Enginner & DevSecOps Enthusiast
+- 🔥 DevOps Enginner & DevSecOps Enthusiast
 
 - 🔭 I’m currently working at [Finbooster](https://github.com/Rocketseat)
 

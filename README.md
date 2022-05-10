@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #
 - 🔥 DevOps Enginner & DevSecOps Enthusiast
 
-- 🔭 I’m currently working at [Finbooster](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Finbooster](https://www.linkedin.com/company/finbooster/)
 
 - 💬 Ask me about **AWS, Terraform, Kubernetes, Docker and Any DevOps Tools **
 
@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)

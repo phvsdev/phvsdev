@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #
-- 🔥 DevOps Enginner & DevSecOps Enthusiast
+- 🔥 DevSecOps Enginner & CyberSecurity Enthusiast
 
 - 🔭 I’m currently working at [Base](https://www.linkedin.com/company/finbooster/)
 

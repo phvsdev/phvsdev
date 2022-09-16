@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #
 - 🔥 DevOps Enginner & DevSecOps Enthusiast
 
-- 🔭 I’m currently working at [Finbooster](https://www.linkedin.com/company/finbooster/)
+- 🔭 I’m currently working at [Base](https://www.linkedin.com/company/finbooster/)
 
 - 💬 Ask me about ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)![Terraform](https://img.shields.io/badge/-Terrafom-05122A?style=flat&logo=Terraform)
 
